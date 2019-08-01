@@ -7,12 +7,13 @@ Tells about the shows of batman
  </h1>
  <h1>
   Project can be found live at
+    <a href="https://next-app.daggron.now.sh/"> here</a>
   </h1>
-  <a href="https://next-app.daggron.now.sh/"> here</a>
+
   
-  for development 
+  
  
- Steps to run:-
+ Steps to run and development:-
  npm install
  <br>
  npm run dev
