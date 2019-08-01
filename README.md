@@ -8,4 +8,5 @@ Tells about the shows of batman
  
  Steps to run:-
  npm install
+ <br>
  npm run dev
